@@ -1,0 +1,41 @@
+.jumbotron{
+    background-image: url(../img/1.jpg);
+    background-size: cover;
+    text-align: center;
+    color:black;
+    height: 700px;
+}
+
+.jumbotron .display-4{
+    margin-top: 200px;
+}
+
+.row img {
+    height: 250px;
+    width: 250px;
+}
+.row .card {
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+
+.row h1 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.img-pp{
+	margin: auto;
+    width: 50%;
+    margin-left: 430px;
+    margin-bottom: 30px;
+}
+
+
+.col-sm-12{
+    padding-left : 200px;
+    background-color: transparent;
+    margin-top: 30px
+    text-align: center;
+}
+
